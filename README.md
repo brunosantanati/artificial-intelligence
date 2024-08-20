@@ -1,9 +1,17 @@
 # artificial-intelligence
 
 ## Links
+
+### Ollama
 [Ollama](https://ollama.com/)  
-[Available Models](https://ollama.com/library)  
+[Models](https://ollama.com/library)  
 [How do I keep a model loaded in memory or make it unload immediately?](https://github.com/ollama/ollama/blob/main/docs/faq.md#how-do-i-keep-a-model-loaded-in-memory-or-make-it-unload-immediately)  
+
+###
+[Hugging Face](https://huggingface.co/)  
+[Models](https://huggingface.co/models)  
+
+### Videos
 [I Analyzed My Finance With Local LLMs](https://youtu.be/h_GTxRFYETY?si=jyL-aRR6_-2rNxsh)  
 [O SEU PRÓPRIO CHATGPT! COMO FUNCIONA o MODELO de uma INTELIGÊNCIA ARTIFICIAL?](https://youtu.be/2gqWI9Z9DKM?si=ywOjDWR17vVr_AV8)  
 [All You Need To Know About Running LLMs Locally](https://youtu.be/XwL_cRuXM2E?si=7s1cS8TC9q2ySGbz)  
