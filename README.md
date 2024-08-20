@@ -7,7 +7,7 @@
 [Models](https://ollama.com/library)  
 [How do I keep a model loaded in memory or make it unload immediately?](https://github.com/ollama/ollama/blob/main/docs/faq.md#how-do-i-keep-a-model-loaded-in-memory-or-make-it-unload-immediately)  
 
-###
+### Hugging Face
 [Hugging Face](https://huggingface.co/)  
 [Models](https://huggingface.co/models)  
 
