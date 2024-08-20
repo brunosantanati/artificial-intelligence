@@ -29,7 +29,7 @@ Show help:
 ollama help
 
 ollama help output:
-------------
+--------------------------------------
 Large language model runner
 
 Usage:
@@ -54,5 +54,5 @@ Flags:
   -v, --version   Show version information
 
 Use "ollama [command] --help" for more information about a command.
-
+--------------------------------------
 ```
