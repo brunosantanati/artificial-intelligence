@@ -1,4 +1,4 @@
-Original project:
+Original project:  
 [Using ChatGPT with YOUR OWN Data. This is magical. (LangChain OpenAI API)](https://www.youtube.com/watch?v=9AXP7tCI9PI)  
 [GitHub repository](https://github.com/techleadhd/chatgpt-retrieval)  
 
