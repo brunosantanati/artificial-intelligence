@@ -11,6 +11,18 @@
 [Hugging Face](https://huggingface.co/)  
 [Models](https://huggingface.co/models)  
 
+### Other videos
+
+[CrewAI](https://www.crewai.com/)  
+[DeepSeek](https://www.deepseek.com/en)  
+[Manus](https://manus.im/)  
+[llama.cpp](https://github.com/ggml-org/llama.cpp)  
+[JNI to integrate with llama.cpp](https://pt.m.wikipedia.org/wiki/Java_Native_Interface)  
+[ClaudeAI](https://claude.ai/)  
+[NotebookLM](https://notebooklm.google.com)  
+[LindyAI](https://www.lindy.ai/)  
+[CursorAI](https://www.cursor.com/)  
+
 ### Videos
 [I Analyzed My Finance With Local LLMs](https://youtu.be/h_GTxRFYETY?si=jyL-aRR6_-2rNxsh)  
 [O SEU PRÓPRIO CHATGPT! COMO FUNCIONA o MODELO de uma INTELIGÊNCIA ARTIFICIAL?](https://youtu.be/2gqWI9Z9DKM?si=ywOjDWR17vVr_AV8)  
