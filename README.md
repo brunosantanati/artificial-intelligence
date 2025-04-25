@@ -11,7 +11,7 @@
 [Hugging Face](https://huggingface.co/)  
 [Models](https://huggingface.co/models)  
 
-### Other videos
+### Other Links
 
 [CrewAI](https://www.crewai.com/)  
 [DeepSeek](https://www.deepseek.com/en)  
