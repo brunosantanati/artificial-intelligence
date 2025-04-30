@@ -22,6 +22,7 @@
 [NotebookLM](https://notebooklm.google.com)  
 [LindyAI](https://www.lindy.ai/)  
 [CursorAI](https://www.cursor.com/)  
+[OpenAI Codex CLI – Getting Started](https://help.openai.com/en/articles/11096431-openai-codex-cli-getting-started)  
 
 ### Videos
 [I Analyzed My Finance With Local LLMs](https://youtu.be/h_GTxRFYETY?si=jyL-aRR6_-2rNxsh)  
