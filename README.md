@@ -24,6 +24,8 @@
 [CursorAI](https://www.cursor.com/)  
 [OpenAI Codex CLI – Getting Started](https://help.openai.com/en/articles/11096431-openai-codex-cli-getting-started)  
 [Grok](https://grok.com/)  
+[Little Language Lessons](https://labs.google/lll/en)  
+[Blog post about Little Language Lessons](https://blog.google/outreach-initiatives/education/little-language-lessons/)  
 
 ### Videos
 [I Analyzed My Finance With Local LLMs](https://youtu.be/h_GTxRFYETY?si=jyL-aRR6_-2rNxsh)  
