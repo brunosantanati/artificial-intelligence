@@ -26,6 +26,7 @@
 [Grok](https://grok.com/)  
 [Little Language Lessons](https://labs.google/lll/en)  
 [Blog post about Little Language Lessons](https://blog.google/outreach-initiatives/education/little-language-lessons/)  
+[Jules](https://jules.google/)  
 
 ### Videos
 [I Analyzed My Finance With Local LLMs](https://youtu.be/h_GTxRFYETY?si=jyL-aRR6_-2rNxsh)  
