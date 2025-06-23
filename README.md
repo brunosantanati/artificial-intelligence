@@ -14,6 +14,8 @@
 ### Articles
 
 [AI 2027](https://ai-2027.com/)  
+[OpenAI Codex CLI – Getting Started](https://help.openai.com/en/articles/11096431-openai-codex-cli-getting-started)  
+[Blog post about Little Language Lessons](https://blog.google/outreach-initiatives/education/little-language-lessons/)  
 
 ### Tools
 
@@ -26,10 +28,8 @@
 [NotebookLM](https://notebooklm.google.com)  
 [LindyAI](https://www.lindy.ai/)  
 [CursorAI](https://www.cursor.com/)  
-[OpenAI Codex CLI – Getting Started](https://help.openai.com/en/articles/11096431-openai-codex-cli-getting-started)  
 [Grok](https://grok.com/)  
 [Little Language Lessons](https://labs.google/lll/en)  
-[Blog post about Little Language Lessons](https://blog.google/outreach-initiatives/education/little-language-lessons/)  
 [Jules](https://jules.google/)  
 [Flux AI](https://flux-ai.io/)  
 [Stability AI](https://stability.ai/)  
