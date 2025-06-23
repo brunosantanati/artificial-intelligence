@@ -20,6 +20,7 @@
 ### Tools
 
 [ChatGPT](https://chatgpt.com/)  
+[Codex CLI](https://github.com/openai/codex)  
 [Codex](https://openai.com/index/introducing-codex/)  
 [CrewAI](https://www.crewai.com/)  
 [DeepSeek](https://www.deepseek.com/en)  
