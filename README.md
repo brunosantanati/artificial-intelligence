@@ -19,6 +19,8 @@
 
 ### Tools
 
+[ChatGPT](https://chatgpt.com/)  
+[Codex](https://openai.com/index/introducing-codex/)  
 [CrewAI](https://www.crewai.com/)  
 [DeepSeek](https://www.deepseek.com/en)  
 [Manus](https://manus.im/)  
