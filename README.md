@@ -11,7 +11,11 @@
 [Hugging Face](https://huggingface.co/)  
 [Models](https://huggingface.co/models)  
 
-### Other Links
+### Articles
+
+[AI 2027](https://ai-2027.com/)  
+
+### Tools
 
 [CrewAI](https://www.crewai.com/)  
 [DeepSeek](https://www.deepseek.com/en)  
@@ -27,6 +31,12 @@
 [Little Language Lessons](https://labs.google/lll/en)  
 [Blog post about Little Language Lessons](https://blog.google/outreach-initiatives/education/little-language-lessons/)  
 [Jules](https://jules.google/)  
+[Flux AI](https://flux-ai.io/)  
+[Stability AI](https://stability.ai/)  
+[Midjourney](https://www.midjourney.com/home)  
+[DALLE 3](https://openart.ai/home)  
+[DALLE 2](https://openai.com/index/dall-e-2/)  
+[Elevenlabs](https://elevenlabs.io/)  
 
 ### Videos
 [I Analyzed My Finance With Local LLMs](https://youtu.be/h_GTxRFYETY?si=jyL-aRR6_-2rNxsh)  
