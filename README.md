@@ -50,6 +50,7 @@
 [How to Train ChatGPT on Your Own Data - Build a Custom AI Chatbot](https://www.youtube.com/watch?v=LcG919C4UeU)  
 [Using ChatGPT with YOUR OWN Data. This is magical. (LangChain OpenAI API)](https://www.youtube.com/watch?v=9AXP7tCI9PI) - [GitHub repo](https://github.com/techleadhd/chatgpt-retrieval)  
 [TESTAMOS O CODEX CLI DA OPENAI (AGORA FAZ PARTE DA NOSSA STACK)](https://www.youtube.com/watch?v=X3Igp8NX1YI)  
+[Jules(da Google) é o melhor agente de I.A.? Conheça o Jules](https://youtu.be/nA_6PyLv660?si=Hac3DD5xFQh68JJB)  
 
 ## Commands
 ```
