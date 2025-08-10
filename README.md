@@ -40,6 +40,11 @@
 [DALLE 3](https://openart.ai/home)  
 [DALLE 2](https://openai.com/index/dall-e-2/)  
 [Elevenlabs](https://elevenlabs.io/)  
+[CodeRabbit](https://www.coderabbit.ai/)  
+[Archie AI](https://www.getarchieai.com/)  
+[Top Media AI](https://www.topmediai.com/)  
+[LangChain](https://www.langchain.com/)  
+[Agno](https://github.com/agno-agi/agno)  
 
 ### Videos
 [I Analyzed My Finance With Local LLMs](https://youtu.be/h_GTxRFYETY?si=jyL-aRR6_-2rNxsh)  
