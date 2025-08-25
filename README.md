@@ -44,7 +44,9 @@
 [Archie AI](https://www.getarchieai.com/)  
 [Top Media AI](https://www.topmediai.com/)  
 [LangChain](https://www.langchain.com/)  
+[LangGraph](https://www.langchain.com/langgraph)  
 [Agno](https://github.com/agno-agi/agno)  
+[n8n](https://n8n.io/)  
 
 ### Videos
 [I Analyzed My Finance With Local LLMs](https://youtu.be/h_GTxRFYETY?si=jyL-aRR6_-2rNxsh)  
