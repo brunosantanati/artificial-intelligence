@@ -16,6 +16,7 @@
 [AI 2027](https://ai-2027.com/)  
 [OpenAI Codex CLI – Getting Started](https://help.openai.com/en/articles/11096431-openai-codex-cli-getting-started)  
 [Blog post about Little Language Lessons](https://blog.google/outreach-initiatives/education/little-language-lessons/)  
+[Connect to local MCP servers](https://modelcontextprotocol.io/docs/develop/connect-local-servers)  
 
 ### Tools
 
@@ -47,6 +48,7 @@
 [LangGraph](https://www.langchain.com/langgraph)  
 [Agno](https://github.com/agno-agi/agno)  
 [n8n](https://n8n.io/)  
+[Claude Desktop Debian](https://github.com/aaddrick/claude-desktop-debian)    
 
 ### Videos
 [I Analyzed My Finance With Local LLMs](https://youtu.be/h_GTxRFYETY?si=jyL-aRR6_-2rNxsh)  
@@ -61,6 +63,7 @@
 [Using ChatGPT with YOUR OWN Data. This is magical. (LangChain OpenAI API)](https://www.youtube.com/watch?v=9AXP7tCI9PI) - [GitHub repo](https://github.com/techleadhd/chatgpt-retrieval)  
 [TESTAMOS O CODEX CLI DA OPENAI (AGORA FAZ PARTE DA NOSSA STACK)](https://www.youtube.com/watch?v=X3Igp8NX1YI)  
 [Jules(da Google) é o melhor agente de I.A.? Conheça o Jules](https://youtu.be/nA_6PyLv660?si=Hac3DD5xFQh68JJB)  
+[How to Install Claude-Desktop on Ubuntu & Build an MCP Project](https://www.youtube.com/watch?v=NqMU9cL2LfE)  
 
 ## Commands
 ```
