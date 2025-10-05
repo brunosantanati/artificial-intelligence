@@ -42,6 +42,7 @@
 [DALLE 2](https://openai.com/index/dall-e-2/)  
 [Elevenlabs](https://elevenlabs.io/)  
 [CodeRabbit](https://www.coderabbit.ai/)  
+[CodeRabbit CLI](https://www.coderabbit.ai/cli)    
 [Archie AI](https://www.getarchieai.com/)  
 [Top Media AI](https://www.topmediai.com/)  
 [LangChain](https://www.langchain.com/)  
@@ -49,6 +50,7 @@
 [Agno](https://github.com/agno-agi/agno)  
 [n8n](https://n8n.io/)  
 [Claude Desktop Debian](https://github.com/aaddrick/claude-desktop-debian)    
+[Zapier MCP](https://zapier.com/mcp)  
 
 ### Videos
 [I Analyzed My Finance With Local LLMs](https://youtu.be/h_GTxRFYETY?si=jyL-aRR6_-2rNxsh)  
