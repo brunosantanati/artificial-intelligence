@@ -55,6 +55,9 @@
 * [GhostCut](https://jollytoday.com/) - AI tool to **remove subtitles** from videos.
 * [Meta AI](https://www.meta.ai/) - **Create videos** using Meta's AI technology.
 * [OpenArt](https://openart.ai/) - Platform to **create images and videos** using various generative AI models.
+* [Sora 2](https://openai.com/pt-BR/index/sora-2/) - OpenAI's latest **video and audio generation model** with increased realism and control.
+* [Artlist](https://artlist.io/) - Platform for creators providing **AI image/video, voiceover, and royalty-free music/SFX**.
+* [Kling AI](https://klingai.com/global/) - A **video generation model** known for its realism and long-duration videos.
 
 ### Videos
 * [I Analyzed My Finance With Local LLMs](https://youtu.be/h_GTxRFYETY?si=jyL-aRR6_-2rNxsh)  
