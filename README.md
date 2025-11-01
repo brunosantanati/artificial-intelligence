@@ -36,21 +36,24 @@
 [Little Language Lessons](https://labs.google/lll/en)  
 [Jules](https://jules.google/)  
 [Flux AI](https://flux-ai.io/)  
-[Stability AI](https://stability.ai/)  
-[Midjourney](https://www.midjourney.com/home)  
-[DALLE 3](https://openart.ai/home)  
-[DALLE 2](https://openai.com/index/dall-e-2/)  
-[Elevenlabs](https://elevenlabs.io/)  
-[CodeRabbit](https://www.coderabbit.ai/)  
-[CodeRabbit CLI](https://www.coderabbit.ai/cli)    
-[Archie AI](https://www.getarchieai.com/)  
-[Top Media AI](https://www.topmediai.com/)  
-[LangChain](https://www.langchain.com/)  
-[LangGraph](https://www.langchain.com/langgraph)  
-[Agno](https://github.com/agno-agi/agno)  
-[n8n](https://n8n.io/)  
-[Claude Desktop Debian](https://github.com/aaddrick/claude-desktop-debian)    
-[Zapier MCP](https://zapier.com/mcp)  
+[Stability AI](https://stability.ai/) - A leading developer of open-source generative AI models for image, video, and audio creation  
+[Midjourney](https://www.midjourney.com/home) - It generates images based on text  
+[DALLE 3](https://openart.ai/home) - Create images  
+[DALLE 2](https://openai.com/index/dall-e-2/) - Create images  
+[Elevenlabs](https://elevenlabs.io/) - AI voice generator for voiceovers, audiobooks low‑latency conversational agents, etc  
+[CodeRabbit](https://www.coderabbit.ai/) - It reviews PRs  
+[CodeRabbit CLI](https://www.coderabbit.ai/cli) - CLI version    
+[Archie AI](https://www.getarchieai.com/) - It reviews PRs, fixes bugs, summarize codebase, answers questions about code  
+[Top Media AI](https://www.topmediai.com/) - Video, Music, and Voiceover  
+[LangChain](https://www.langchain.com/) - Framework for building, connecting, and running AI agents that use LLMs  
+[LangGraph](https://www.langchain.com/langgraph) - A specialized tool for building custom, complex AI agents that require steps, loops, and state management  
+[Agno](https://github.com/agno-agi/agno) - Agno is a multi-agent framework, runtime and control plane  
+[n8n](https://n8n.io/) - To implement multi-step AI agents and integrate apps  
+[Claude Desktop Debian](https://github.com/aaddrick/claude-desktop-debian) - non-official Claude Desktop version for Debian/Ubuntu    
+[Zapier MCP](https://zapier.com/mcp) - Connect your AI to any app with Zapier MCP  
+[GhostCut](https://jollytoday.com/) - Remove subtitles using AI  
+[Meta AI](https://www.meta.ai/) - Create videos  
+[OpenArt](https://openart.ai/) - Create images and videos
 
 ### Videos
 [I Analyzed My Finance With Local LLMs](https://youtu.be/h_GTxRFYETY?si=jyL-aRR6_-2rNxsh)  
