@@ -20,37 +20,38 @@
 
 ### Tools
 
-[ChatGPT](https://chatgpt.com/)  
-[Codex CLI](https://github.com/openai/codex)  
-[Codex](https://openai.com/index/introducing-codex/)  
-[CrewAI](https://www.crewai.com/)  
-[DeepSeek](https://www.deepseek.com/en)  
-[Manus](https://manus.im/)  
-[llama.cpp](https://github.com/ggml-org/llama.cpp)  
+[ChatGPT](https://chatgpt.com/) - A generative AI chatbot developed by OpenAI  
+[Grok](https://grok.com/) - A generative AI chatbot developed by Elon Musk's xAI  
+[Gemini](https://gemini.google.com/) - A generative AI chatbot and virtual assistant developed by Google
+[ClaudeAI](https://claude.ai/) - A powerful AI assistant created by Anthropic  
+[DeepSeek](https://www.deepseek.com/en) - An AI company that develops and provides LLMs, including models specialized for coding and mathematics. It has a chatbot too  
+[Little Language Lessons](https://labs.google/lll/en) - Learn Languages - A collection of learning experiments built with Gemini.  
+[NotebookLM](https://notebooklm.google.com) - A Google AI tool that acts as a personalized research assistant, grounded exclusively in the user's uploaded documents to generate summaries, explanations, and study guides   
+[CursorAI](https://www.cursor.com/) - An AI-powered code editor (IDE)  
+[llama.cpp](https://github.com/ggml-org/llama.cpp) - An efficient C/C++ library for running LLMs locally on a variety of personal hardware with minimal dependencies  
 [JNI to integrate with llama.cpp](https://pt.m.wikipedia.org/wiki/Java_Native_Interface)  
-[ClaudeAI](https://claude.ai/)  
-[NotebookLM](https://notebooklm.google.com)  
-[LindyAI](https://www.lindy.ai/)  
-[CursorAI](https://www.cursor.com/)  
-[Grok](https://grok.com/)  
-[Little Language Lessons](https://labs.google/lll/en)  
-[Jules](https://jules.google/)  
-[Flux AI](https://flux-ai.io/)  
+[Jules](https://jules.google/) - An Autonomous Coding Agent  
+[CodeRabbit](https://www.coderabbit.ai/) - It reviews PRs  
+[CodeRabbit CLI](https://www.coderabbit.ai/cli) - CLI version    
+[Archie AI](https://www.getarchieai.com/) - It reviews PRs, fixes bugs, summarize codebase, answers questions about code  
+[LangChain](https://www.langchain.com/) - Framework for building, connecting, and running AI agents that use LLMs  
+[LangGraph](https://www.langchain.com/langgraph) - A specialized tool for building custom, complex AI agents that require steps, loops, and state management  
+[Agno](https://github.com/agno-agi/agno) - Agno is a multi-agent framework, runtime and control plane  
+[n8n](https://n8n.io/) - To implement multi-step AI agents and integrate apps  
+[CrewAI](https://www.crewai.com/) - An open-source framework for orchestrating and managing collaborative teams of AI agents to perform complex, multi-step workflows  
+[Manus](https://manus.im/) - An autonomous AI agent designed to independently plan, execute, and deliver complete, complex tasks without continuous human supervision  
+[Codex](https://openai.com/index/introducing-codex/) - An autonomous AI agent from OpenAI designed to handle multi-step software development and maintenance tasks   
+[Codex CLI](https://github.com/openai/codex) - A coding agent from OpenAI that runs locally on your computer   
+[LindyAI](https://www.lindy.ai/) - A business platform for creating and deploying autonomous, integrated AI agents to automate multi-step workflows across sales, support, and operations 
+[Claude Desktop Debian](https://github.com/aaddrick/claude-desktop-debian) - non-official Claude Desktop version for Debian/Ubuntu    
+[Zapier MCP](https://zapier.com/mcp) - Connect your AI to any app with Zapier MCP  
+[Top Media AI](https://www.topmediai.com/) - Video, Music, and Voiceover  
+[Flux AI](https://flux-ai.io/) - Create images and videos  
 [Stability AI](https://stability.ai/) - A leading developer of open-source generative AI models for image, video, and audio creation  
 [Midjourney](https://www.midjourney.com/home) - It generates images based on text  
 [DALLE 3](https://openart.ai/home) - Create images  
 [DALLE 2](https://openai.com/index/dall-e-2/) - Create images  
 [Elevenlabs](https://elevenlabs.io/) - AI voice generator for voiceovers, audiobooks low‑latency conversational agents, etc  
-[CodeRabbit](https://www.coderabbit.ai/) - It reviews PRs  
-[CodeRabbit CLI](https://www.coderabbit.ai/cli) - CLI version    
-[Archie AI](https://www.getarchieai.com/) - It reviews PRs, fixes bugs, summarize codebase, answers questions about code  
-[Top Media AI](https://www.topmediai.com/) - Video, Music, and Voiceover  
-[LangChain](https://www.langchain.com/) - Framework for building, connecting, and running AI agents that use LLMs  
-[LangGraph](https://www.langchain.com/langgraph) - A specialized tool for building custom, complex AI agents that require steps, loops, and state management  
-[Agno](https://github.com/agno-agi/agno) - Agno is a multi-agent framework, runtime and control plane  
-[n8n](https://n8n.io/) - To implement multi-step AI agents and integrate apps  
-[Claude Desktop Debian](https://github.com/aaddrick/claude-desktop-debian) - non-official Claude Desktop version for Debian/Ubuntu    
-[Zapier MCP](https://zapier.com/mcp) - Connect your AI to any app with Zapier MCP  
 [GhostCut](https://jollytoday.com/) - Remove subtitles using AI  
 [Meta AI](https://www.meta.ai/) - Create videos  
 [OpenArt](https://openart.ai/) - Create images and videos
