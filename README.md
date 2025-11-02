@@ -16,7 +16,8 @@
 * [AI 2027](https://ai-2027.com/)  
 * [OpenAI Codex CLI – Getting Started](https://help.openai.com/en/articles/11096431-openai-codex-cli-getting-started)  
 * [Blog post about Little Language Lessons](https://blog.google/outreach-initiatives/education/little-language-lessons/)  
-* [Connect to local MCP servers](https://modelcontextprotocol.io/docs/develop/connect-local-servers)  
+* [Connect to local MCP servers](https://modelcontextprotocol.io/docs/develop/connect-local-servers)
+* [Gemini - Prompt design strategies](https://ai.google.dev/gemini-api/docs/prompting-strategies)
 
 ### 🛠️ Tools
 
