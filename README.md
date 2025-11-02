@@ -62,6 +62,7 @@
 * [Flow](https://labs.google/fx/tools/flow) - Google's AI **filmmaking tool** for creating cinematic clips and scenes with consistency using models like Veo.
 * [Boomy](https://boomy.com/) - An **AI music creation platform** that allows users to generate, customize, and monetize original songs in seconds.
 * [TTSMaker](https://ttsmaker.com/) - A **free online Text-to-Speech (TTS) tool** that provides high-quality audio generation with **commercial use rights**.
+* [Freesound](https://freesound.org/) - A collaborative online **repository of Creative Commons licensed audio samples and sound effects** for use in creative projects.
 
 ### Videos
 * [I Analyzed My Finance With Local LLMs](https://youtu.be/h_GTxRFYETY?si=jyL-aRR6_-2rNxsh)  
