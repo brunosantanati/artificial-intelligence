@@ -58,6 +58,7 @@
 * [Sora 2](https://openai.com/pt-BR/index/sora-2/) - OpenAI's latest **video and audio generation model** with increased realism and control.
 * [Artlist](https://artlist.io/) - Platform for creators providing **AI image/video, voiceover, and royalty-free music/SFX**.
 * [Kling AI](https://klingai.com/global/) - A **video generation model** known for its realism and long-duration videos.
+* [Flow](https://labs.google/fx/tools/flow) - Google's AI **filmmaking tool** for creating cinematic clips and scenes with consistency using models like Veo.
 * [Boomy](https://boomy.com/) - An **AI music creation platform** that allows users to generate, customize, and monetize original songs in seconds.
 * [TTSMaker](https://ttsmaker.com/) - A **free online Text-to-Speech (TTS) tool** that provides high-quality audio generation with **commercial use rights**.
 
