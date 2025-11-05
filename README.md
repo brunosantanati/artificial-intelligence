@@ -84,7 +84,8 @@
 * [Using ChatGPT with YOUR OWN Data. This is magical. (LangChain OpenAI API)](https://www.youtube.com/watch?v=9AXP7tCI9PI) - [GitHub repo](https://github.com/techleadhd/chatgpt-retrieval)  
 * [TESTAMOS O CODEX CLI DA OPENAI (AGORA FAZ PARTE DA NOSSA STACK)](https://www.youtube.com/watch?v=X3Igp8NX1YI)  
 * [Jules(da Google) é o melhor agente de I.A.? Conheça o Jules](https://youtu.be/nA_6PyLv660?si=Hac3DD5xFQh68JJB)  
-* [How to Install Claude-Desktop on Ubuntu & Build an MCP Project](https://www.youtube.com/watch?v=NqMU9cL2LfE)  
+* [How to Install Claude-Desktop on Ubuntu & Build an MCP Project](https://www.youtube.com/watch?v=NqMU9cL2LfE)
+* [Make Consistent Characters & Scenes with Google Flow's "Jump To" (AI Video Tutorial)](https://www.youtube.com/watch?v=ubg6aNKeMjM&t=50s)
 
 ## Commands
 ```
