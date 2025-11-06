@@ -50,6 +50,7 @@
 * [Flux AI](https://flux-ai.io/) - Tool to **create images and videos** using AI.
 * [Stability AI](https://stability.ai/) - Developer of **open-source generative AI models** for image, video, and audio (e.g., Stable Diffusion).
 * [Midjourney](https://www.midjourney.com/home) - AI service that **generates images based on text** descriptions.
+* [Leonardo AI](https://leonardo.ai/t/explore) - An **AI image and video generator** offering fine-tuned models, advanced editing tools, and features for generating **game assets**.
 * [DALLE 3](https://openart.ai/home) - Create images
 * [DALLE 2](https://openai.com/index/dall-e-2/) - Create images
 * [Elevenlabs](https://elevenlabs.io/) - **AI voice generator** for voiceovers, audiobooks, and conversational agents.
@@ -61,6 +62,7 @@
 * [Kling AI](https://klingai.com/global/) - A **video generation model** known for its realism and long-duration videos.
 * [Flow](https://labs.google/fx/tools/flow) - Google's AI **filmmaking tool** for creating cinematic clips and scenes with consistency using models like Veo.
 * [Boomy](https://boomy.com/) - An **AI music creation platform** that allows users to generate, customize, and monetize original songs in seconds.
+* [Suno](https://suno.com/) - A generative **AI music platform** that creates full songs, including **lyrics, vocals, and instrumentation**, from simple text prompts.
 * [TTSMaker](https://ttsmaker.com/) - A **free online Text-to-Speech (TTS) tool** that provides high-quality audio generation with **commercial use rights**.
 * [Ideogram](https://ideogram.ai/t/explore) - A **text-to-image AI generator** known for its superior ability to create **accurate, legible text** within images (typography).
 * [Higgsfield](https://higgsfield.ai/) - A generative **video and image platform** focusing on **cinematic camera control** and stylized visual effects.
