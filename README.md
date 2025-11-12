@@ -51,6 +51,7 @@
 * [Stability AI](https://stability.ai/) - Developer of **open-source generative AI models** for image, video, and audio (e.g., Stable Diffusion).
 * [Midjourney](https://www.midjourney.com/home) - AI service that **generates images based on text** descriptions.
 * [Leonardo AI](https://leonardo.ai/t/explore) - An **AI image and video generator** offering fine-tuned models, advanced editing tools, and features for generating **game assets**.
+* [PicLumen](https://www.piclumen.com/) - free **AI image generator**
 * [DALLE 3](https://openart.ai/home) - Create images
 * [DALLE 2](https://openai.com/index/dall-e-2/) - Create images
 * [Elevenlabs](https://elevenlabs.io/) - **AI voice generator** for voiceovers, audiobooks, and conversational agents.
