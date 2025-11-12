@@ -52,6 +52,8 @@
 * [Midjourney](https://www.midjourney.com/home) - AI service that **generates images based on text** descriptions.
 * [Leonardo AI](https://leonardo.ai/t/explore) - An **AI image and video generator** offering fine-tuned models, advanced editing tools, and features for generating **game assets**.
 * [PicLumen](https://www.piclumen.com/) - free **AI image generator**
+* [Filtrix AI](https://www.filtrix.ai/) - An advanced **image transformation tool** specializing in **AI-powered videos from photos** and **specialized style transformations**.
+* [Yupp](https://yupp.ai/) - An **AI evaluation platform** for **comparing 700+ AI models** and **earning cash/credits** by providing human feedback (RLHF).
 * [DALLE 3](https://openart.ai/home) - Create images
 * [DALLE 2](https://openai.com/index/dall-e-2/) - Create images
 * [Elevenlabs](https://elevenlabs.io/) - **AI voice generator** for voiceovers, audiobooks, and conversational agents.
