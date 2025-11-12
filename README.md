@@ -88,6 +88,7 @@
 * [Jules(da Google) é o melhor agente de I.A.? Conheça o Jules](https://youtu.be/nA_6PyLv660?si=Hac3DD5xFQh68JJB)  
 * [How to Install Claude-Desktop on Ubuntu & Build an MCP Project](https://www.youtube.com/watch?v=NqMU9cL2LfE)
 * [Make Consistent Characters & Scenes with Google Flow's "Jump To" (AI Video Tutorial)](https://www.youtube.com/watch?v=ubg6aNKeMjM&t=50s)
+* [How to Turn Anime into Realistic Photos for FREE](https://www.youtube.com/watch?v=r2nD0btBpnc&list=PLGemgmMsjljQzS2uHur_MSjKkG1osJntH&index=2)
 
 ## Commands
 ```
