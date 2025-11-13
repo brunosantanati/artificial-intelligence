@@ -57,6 +57,7 @@
 * [DALLE 3](https://openart.ai/home) - Create images
 * [DALLE 2](https://openai.com/index/dall-e-2/) - Create images
 * [Elevenlabs](https://elevenlabs.io/) - **AI voice generator** for voiceovers, audiobooks, and conversational agents.
+* [Clone Voice AI](https://clonevoice.ai/) - An **AI voice cloning platform** that generates **realistic voice replicas** for content, music, and personalized audio.
 * [GhostCut](https://jollytoday.com/) - AI tool to **remove subtitles** from videos.
 * [Meta AI](https://www.meta.ai/) - **Create videos** using Meta's AI technology.
 * [OpenArt](https://openart.ai/) - Platform to **create images and videos** using various generative AI models.
@@ -64,6 +65,9 @@
 * [Artlist](https://artlist.io/) - Platform for creators providing **AI image/video, voiceover, and royalty-free music/SFX**.
 * [Kling AI](https://klingai.com/global/) - A **video generation model** known for its realism and long-duration videos.
 * [Flow](https://labs.google/fx/tools/flow) - Google's AI **filmmaking tool** for creating cinematic clips and scenes with consistency using models like Veo.
+* [Hailuo AI Video](https://hailuoai.video/) - An **AI video generator** that transforms **text or images** into **cinematic short video clips** with features for character consistency.
+* [Hedra](https://www.hedra.com/) - A **generative media platform** for creating **expressive talking-head videos** by transforming static images into dynamic **AI-driven avatars**.
+* [Runway ML](https://runwayml.com/) - A **creative platform** with an **AI video generation suite** (Gen-3 Alpha) and tools for **image, video, and audio** editing/creation.
 * [Boomy](https://boomy.com/) - An **AI music creation platform** that allows users to generate, customize, and monetize original songs in seconds.
 * [Suno](https://suno.com/) - A generative **AI music platform** that creates full songs, including **lyrics, vocals, and instrumentation**, from simple text prompts.
 * [TTSMaker](https://ttsmaker.com/) - A **free online Text-to-Speech (TTS) tool** that provides high-quality audio generation with **commercial use rights**.
