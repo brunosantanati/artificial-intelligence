@@ -51,12 +51,18 @@
 * [Stability AI](https://stability.ai/) - Developer of **open-source generative AI models** for image, video, and audio (e.g., Stable Diffusion).
 * [Midjourney](https://www.midjourney.com/home) - AI service that **generates images based on text** descriptions.
 * [Leonardo AI](https://leonardo.ai/t/explore) - An **AI image and video generator** offering fine-tuned models, advanced editing tools, and features for generating **game assets**.
+* [Freepik](https://br.freepik.com/) - A creative hub combining **millions of stock assets** with powerful **AI design tools**.
+* [Magnific](https://magnific.ai/) - A generative **AI upscaler** that enhances images by adding **intricate, high-res details**.
+* [Dreamina](https://dreamina.capcut.com/ai-tool/home/) - A **generative AI platform** by CapCut for creating **high-quality images and videos**.
+* [Imagine](https://www.imagine.art/) - An **AI art generator** designed to turn text into **stunning, photorealistic visuals**.
 * [PicLumen](https://www.piclumen.com/) - free **AI image generator**
 * [Filtrix AI](https://www.filtrix.ai/) - An advanced **image transformation tool** specializing in **AI-powered videos from photos** and **specialized style transformations**.
 * [Yupp](https://yupp.ai/) - An **AI evaluation platform** for **comparing 700+ AI models** and **earning cash/credits** by providing human feedback (RLHF).
 * [DALLE 3](https://openart.ai/home) - Create images
 * [DALLE 2](https://openai.com/index/dall-e-2/) - Create images
+* [WatermarkRemover](https://www.watermarkremover.io/) - An **AI utility** that instantly **removes watermarks** without compromising **image quality**.
 * [Elevenlabs](https://elevenlabs.io/) - **AI voice generator** for voiceovers, audiobooks, and conversational agents.
+* [Revoicer](https://revoicer.com/) - An **emotion-based AI voice generator** capable of producing **realistic human speech**.
 * [Clone Voice AI](https://clonevoice.ai/) - An **AI voice cloning platform** that generates **realistic voice replicas** for content, music, and personalized audio.
 * [GhostCut](https://jollytoday.com/) - AI tool to **remove subtitles** from videos.
 * [Meta AI](https://www.meta.ai/) - **Create videos** using Meta's AI technology.
