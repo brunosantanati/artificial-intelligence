@@ -68,6 +68,7 @@
 * [Meta AI](https://www.meta.ai/) - **Create videos** using Meta's AI technology.
 * [OpenArt](https://openart.ai/) - Platform to **create images and videos** using various generative AI models.
 * [Sora 2](https://openai.com/pt-BR/index/sora-2/) - OpenAI's latest **video and audio generation model** with increased realism and control.
+* [MovieFlow AI](https://movieflow.ai/) - An **AI filmmaking platform** that generates **cinematic scenes and full narrative videos** from a simple prompt.
 * [Artlist](https://artlist.io/) - Platform for creators providing **AI image/video, voiceover, and royalty-free music/SFX**.
 * [Kling AI](https://klingai.com/global/) - A **video generation model** known for its realism and long-duration videos.
 * [Flow](https://labs.google/fx/tools/flow) - Google's AI **filmmaking tool** for creating cinematic clips and scenes with consistency using models like Veo.
