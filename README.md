@@ -88,6 +88,7 @@
 * [YouTube Video / Audio Downloader](https://en1.savefrom.net/16xF/) - **YouTube Video / Audio Downloader**
 * [Freesound](https://freesound.org/) - A collaborative online **repository of Creative Commons licensed audio samples and sound effects** for use in creative projects.
 * [AnswerThePublic](https://answerthepublic.com/) - A **search listening and keyword research tool** that visually organizes and reveals the **questions, prepositions, and comparisons** people are searching for online.
+* [Google Keyword Planner](https://ads.google.com/aw/keywordplanner/home) - Tool to help to find **new keywords**.
 
 ### Videos
 * [I Analyzed My Finance With Local LLMs](https://youtu.be/h_GTxRFYETY?si=jyL-aRR6_-2rNxsh)  
