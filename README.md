@@ -60,8 +60,10 @@
 * [Yupp](https://yupp.ai/) - An **AI evaluation platform** for **comparing 700+ AI models** and **earning cash/credits** by providing human feedback (RLHF).
 * [DALLE 3](https://openart.ai/home) - Create images
 * [DALLE 2](https://openai.com/index/dall-e-2/) - Create images
+* [ImageFX (Google Labs)](https://labs.google/fx/pt/tools/image-fx) - An **AI image generator** powered by Imagen that allows users to create and refine visuals from text prompts using "Expressive Chips."
 * [WatermarkRemover](https://www.watermarkremover.io/) - An **AI utility** that instantly **removes watermarks** without compromising **image quality**.
 * [Elevenlabs](https://elevenlabs.io/) - **AI voice generator** for voiceovers, audiobooks, and conversational agents.
+* [GenAI Pro VN](https://genaipro.vn/) - A **text-to-speech AI platform** known as a budget-friendly alternative to ElevenLabs for generating **high-quality, localized AI voiceovers**.
 * [Revoicer](https://revoicer.com/) - An **emotion-based AI voice generator** capable of producing **realistic human speech**.
 * [Clone Voice AI](https://clonevoice.ai/) - An **AI voice cloning platform** that generates **realistic voice replicas** for content, music, and personalized audio.
 * [GhostCut](https://jollytoday.com/) - AI tool to **remove subtitles** from videos.
@@ -92,11 +94,13 @@
 * [DownSub](https://downsub.com/) - A **free web application** used to download subtitles and captions (SRT, TXT, VTT) directly from video hosting sites like YouTube and VIU.
 * [Freesound](https://freesound.org/) - A collaborative online **repository of Creative Commons licensed audio samples and sound effects** for use in creative projects.
 * [Epidemic Sound](https://www.epidemicsound.com/) - A **royalty-free music library** providing over 40,000 tracks and sound effects with licensing for content creators and businesses.
+* [VidIQ](https://vidiq.com/) - An **all-in-one YouTube growth and SEO tool** (browser extension) that provides video analysis, keyword research, and optimization suggestions.
 * [AnswerThePublic](https://answerthepublic.com/) - A **search listening and keyword research tool** that visually organizes and reveals the **questions, prepositions, and comparisons** people are searching for online.
 * [Google Trends](https://trends.google.com.br/trends/) - A **public web facility** by Google that analyzes the popularity of top search queries in Google Search across various regions and languages.
 * [Google Keyword Planner](https://ads.google.com/aw/keywordplanner/home) - Tool to help to find **new keywords**.
 * [Keyword Tool IO](https://keywordtool.io/) - An **online keyword research tool** that generates hundreds of long-tail keyword suggestions from Google Autocomplete for multiple platforms.
 * [Social Blade](https://socialblade.com/) - A **social media analytics tool** that tracks user statistics, growth, and estimated earnings across platforms like YouTube, Twitch, and TikTok.
+* [Flourish Studio](https://flourish.studio/) - A **data visualization tool** that creates and animates **interactive charts, graphs, and maps** from uploaded datasets.
 
 ### Videos
 * [I Analyzed My Finance With Local LLMs](https://youtu.be/h_GTxRFYETY?si=jyL-aRR6_-2rNxsh)  
