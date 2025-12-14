@@ -29,6 +29,7 @@
 * [Little Language Lessons](https://labs.google/lll/en) - A collection of learning **experiments built with Gemini**.
 * [NotebookLM](https://notebooklm.google.com) - A Google AI tool that acts as a personalized **research assistant**, grounded in user's documents.
 * [CursorAI](https://www.cursor.com/) - An **AI-powered code editor (IDE)** designed for developer productivity.
+* [Google AI Studio](https://aistudio.google.com/) - A **web-based IDE** for prototyping and deploying AI applications using **Gemini models**, with tools for **chat, image, video, and audio generation**.
 * [llama.cpp](https://github.com/ggml-org/llama.cpp) - An efficient **C/C++ library for running LLMs locally** on personal hardware.
 * [JNI to integrate with llama.cpp](https://pt.m.wikipedia.org/wiki/Java_Native_Interface)
 * [Jules](https://jules.google/) - An **Autonomous Coding Agent** by Google.
