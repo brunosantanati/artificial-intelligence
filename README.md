@@ -105,6 +105,7 @@
 * [Keyword Tool IO](https://keywordtool.io/) - An **online keyword research tool** that generates hundreds of long-tail keyword suggestions from Google Autocomplete for multiple platforms.
 * [Social Blade](https://socialblade.com/) - A **social media analytics tool** that tracks user statistics, growth, and estimated earnings across platforms like YouTube, Twitch, and TikTok.
 * [Flourish Studio](https://flourish.studio/) - A **data visualization tool** that creates and animates **interactive charts, graphs, and maps** from uploaded datasets.
+* [ViewStats](https://www.viewstats.com/info) - Know what will go viral before you hit record. Track trends, analyze competitors and A/B tests, find outlier videos, and see what thumbnails are popular in your niche—all powered by real-time YouTube data and in one platform
 
 ### Videos
 * [I Analyzed My Finance With Local LLMs](https://youtu.be/h_GTxRFYETY?si=jyL-aRR6_-2rNxsh)  
