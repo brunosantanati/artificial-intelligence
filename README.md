@@ -106,10 +106,11 @@
 * [Social Blade](https://socialblade.com/) - A **social media analytics tool** that tracks user statistics, growth, and estimated earnings across platforms like YouTube, Twitch, and TikTok.
 * [Flourish Studio](https://flourish.studio/) - A **data visualization tool** that creates and animates **interactive charts, graphs, and maps** from uploaded datasets.
 * [ViewStats](https://www.viewstats.com/info) - Know what will go viral before you hit record. Track trends, analyze competitors and A/B tests, find outlier videos, and see what thumbnails are popular in your niche—all powered by real-time YouTube data and in one platform
-* ffmpeg - Trim videos:
+* ffmpeg - Trim videos & Extract audio from video:
 ```
 sudo apt  install ffmpeg
 ffmpeg -ss 00:00:03 -to 00:00:12 -i mj-first-moonwalk.mp4 -c copy video_cortado.mp4
+ffmpeg -i video.mp4 -vn -acodec libmp3lame -q:a 2 audio.mp3
 ```
 
 ### Videos
